@@ -22,7 +22,12 @@ This repository contains the code for a **personal portfolio website** that show
 - CSS  
 - Bootstrap  
 - JavaScript  
-- Font Awesome & Bootstrap Icons  
+- Font Awesome & Bootstrap Icons
+
+---
+
+## Portfolio Demo
+![Portfolio Image](Portfolio_screenshot.png)
 
 ---
 
